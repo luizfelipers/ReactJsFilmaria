@@ -2,6 +2,8 @@
 
 This project was made as a basic study on API consuming with ReactJs. It consumes an API hosted by @sujeitoprogramador. This was a code-along project, following his tutorial on Udemy.
 
+![](https://user-images.githubusercontent.com/26651389/103012389-4be99e80-451a-11eb-9e61-b79b1591fd84.gif)
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
